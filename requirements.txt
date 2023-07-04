@@ -1,0 +1,4 @@
+ultralytics
+openai
+pillow
+streamlit
